@@ -8,6 +8,9 @@ Connect to fickle-tempest.picoctf.net 49973.
 ## Solucion
 copie el output en notepad y ctrl f y busque pico:
 picoCTF{digital_plumb3r_0BAc587E}
+
+
+nc fickle-tempest.picoctf.net 49973 | gep pico
 ## Notas
 
 ## Referencias
